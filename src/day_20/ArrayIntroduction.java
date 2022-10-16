@@ -40,6 +40,7 @@ public class ArrayIntroduction {
         boo[1] = false;
         boo[2] = true;
 
+
         System.out.println(Arrays.toString(boo));
 
 
